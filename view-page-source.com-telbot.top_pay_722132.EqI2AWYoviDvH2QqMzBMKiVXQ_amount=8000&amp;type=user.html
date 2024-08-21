@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="RkBqPPpmljPpTIDi7eWXcQQkkCve1xTodKtVPvx7">
+    <title>مبلغ : 8,000 تومان</title>
+    <link rel="stylesheet" href="/css/bootstrap.rtl.min.css">
+    <link rel="stylesheet" href="/css/dashboard.css?v=3">
+</head>
+
+<body><div class="container login">
+    
+            <div class="box">
+            <p class="h4 text-center my-1">مبلغ : 8,000 تومان</p>
+            <p class="text-center my-3">برای ورود به درگاه پرداخت روی دکمه زیر کلیک کنید</p>
+            <p class="text-center my-3" style="color: #717171; font-size: 12px;">(حتما قبل از ورود به درگاه VPN خود را در صورت فعال بودن خاموش کنید سپس روی دکمه پرداخت بزنید)</p>
+            <a href="https://www.zarinpal.com/pg/StartPay/A000000000000000000000000000xplrevzv" class="btn btn-success w-100">پرداخت</a>
+                            <p class="text-center my-3" style="color: #717171; font-size: 12px;">[ در حال خرید از ربات تلگرامی <a href="https://t.me/NumberTelBot">NumberTelBot</a> هستید ]</p>
+                    </div>
+    </div>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/jquery.min.js"></script>
+
+<script>
+    $('a[delete-item]').click(function() {
+        if (confirm('Are You Sure...?') == false)
+            return;
+
+        let form = document.createElement('form');
+
+        form.method = 'POST';
+        form.action = $(this).attr('delete-item');
+        form.style.display = 'none';
+
+        let method = document.createElement('input');
+        method.name = '_method';
+        method.value = 'DELETE';
+
+        let csrf = document.createElement('input');
+        csrf.name = '_token';
+        csrf.value = $('meta[name="csrf-token"]').attr('content');
+
+        form.appendChild(method);
+        form.appendChild(csrf);
+        document.body.appendChild(form);
+
+        form.submit();
+    })
+</script>
+</body>
+
+</html>
