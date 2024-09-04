@@ -47,7 +47,7 @@
 
 
 
-<div class="gstyle">
+<div class="banstyle">
         <a href="IMG_20240904_124340_535.jpg
 " target="_blank">
     <img src="IMG_20240904_124340_535.jpg
@@ -57,7 +57,7 @@
 
 
 
-<div class="gstyle">
+<div class="banstyle">
         <a href="IMG_20240904_124338_350.jpg
 " target="_blank">
     <img src="IMG_20240904_124338_350.jpg
@@ -68,7 +68,7 @@
 
 
 
-<div class="gstyle">
+<div class="banstyle">
         <a href="IMG_20240904_124337_887.jpg
 " target="_blank">
     <img src="IMG_20240904_124337_887.jpg
