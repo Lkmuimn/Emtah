@@ -51,7 +51,7 @@
         <a href="IMG_20240904_124340_535.jpg
 " target="_blank">
     <img src="IMG_20240904_124340_535.jpg
-"></a>/<p class="pstyle">Poyot 5</p>
+"></a>
     
     </div>
 
@@ -61,7 +61,7 @@
         <a href="IMG_20240904_124338_350.jpg
 " target="_blank">
     <img src="IMG_20240904_124338_350.jpg
-"></a><p class="pstyle">Poyot 5</p>
+"></a>
     
     </div>
 
@@ -72,7 +72,7 @@
         <a href="IMG_20240904_124337_887.jpg
 " target="_blank">
     <img src="IMG_20240904_124337_887.jpg
-"></a><p class="pstyle">Poyot 5</p>
+"></a>
     
     </div>
 
