@@ -1,6 +1,7 @@
 <html>
 <head>
 <meta charset="utf-8">
+        <link href="gallerystyle.css" rel="stylesheet" type="text/css">
 <title>Untitled Document</title>
 
 </head>
