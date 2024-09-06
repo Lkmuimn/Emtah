@@ -2,6 +2,7 @@
 <head>
 <meta charset="utf-8">
         <link href="gallerystyle.css" rel="stylesheet" type="text/css">
+        <metaname="viewport" content="device-width, initial-scale=1.0">
 <title>Untitled Document</title>
 
 </head>
