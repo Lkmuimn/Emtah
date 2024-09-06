@@ -85,6 +85,25 @@ border: 1px solid #545454;
     
     
 }
-    
-    
+/*responsive*/
+@media screen and (min-with: 768px)
+{.banstyle img{
+width:50%;
+}
+@media screen and (min-with: 992px)
+
+{Width:25%;}    
+/*responsive*/
+@media screen and (min-with: 768px)
+{.gstyle img{
+width:50%;
+}
+@media screen and (min-with: 992px)
+
+{Width:25%;}
+
+
+
+
+ 
 
