@@ -1,7 +1,7 @@
 icharset "utf-8";
 
 .gstyle{
-    border: 1px solid #545454;
+    border: 350px solid #545454;
     width: 100px;
     height: 70px;
     float: left;
@@ -13,7 +13,7 @@ icharset "utf-8";
     
     
 }
-.gstyle img{width: 90px;
+.gstyle img{width: 100px;
     height: 63px;
     border-radius: 8px 8px 0px 0px;
             margin:1px 1px 1px 1px;
@@ -35,7 +35,7 @@ icharset "utf-8";
     border-radius: 25px;
     
 .banstyle{
-border: 1px solid #545454;
+border: 350px solid #545454;
     width: 100px;
     height: 70px;
     float: left;
