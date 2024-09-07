@@ -20,14 +20,14 @@ icharset "utf-8";
     transition: all 2s;
     float:left;
     podition:relative;
-    
+    width:100px
 }
 .gstyle img:hover{
     
     width: 100px;
     border-radius: 1px 1px 1px 1px;
     Opacity:0.5;
-    
+          margin:1px 1px 1px 1px;
     position:relative;
 }
 .gstyle:hover{
@@ -56,13 +56,14 @@ border: 1px solid #545454;
     transition: all 2s;
     float:left;
     witdth:100px    
+                    margin:1px 1px 1px 1px;
 }
 .banstyle img:hover{
     width: 100px;
     border-radius: 1px 1px 1px 1px;
     Opacity:0.5;
     
-    
+          margin:1px 1px 1px 1px;
     
 }
 .banstyle:hover{
