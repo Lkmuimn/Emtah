@@ -117,3 +117,18 @@ background-image:src("IMG_20240904_124338_350.jpg");
 
  }
 
+@media screen and (max-with: 768px)
+{.banstyle img{
+width:500%;
+}
+@media screen and (max-with: 992px)
+
+{Width:205%;}    
+/*responsive*/
+@media screen and (max-with: 768px)
+{.gstyle img{
+width:500%;
+}
+@media screen and (max-with: 992px)
+
+{Width:250%;
